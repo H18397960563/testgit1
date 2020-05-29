@@ -5,6 +5,7 @@ public class HelloChina {
         System.out.println("Hello , hsy");
         System.out.println("pull let's go");
         System.out.println("push go");
+        System.out.println("我也来一笔");
         System.out.println("idea branch go");
     }
 }
